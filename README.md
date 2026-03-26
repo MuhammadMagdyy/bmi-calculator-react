@@ -16,7 +16,7 @@ The following screenshots demonstrate the application's logic across all four he
 
 | 🟡 Underweight Case | 🟢 Normal Weight Case |
 | :---: | :---: |
-| ![Underweight](./src/assets/underweight.jpeg) | ![Normal](./src/assets/normal.jpeg) |
+| ![Underweight](./src/assets/underweight.jpeg) | ![Normal](/Users/muhammadmagdy/Desktop/React Projects/bmi-react/src/assets/normal.jpeg) |
 | *Example: 180cm / 55kg* | *Example: 180cm / 72kg* |
 
 | 🟠 Overweight Case | 🔴 Obese Case |
