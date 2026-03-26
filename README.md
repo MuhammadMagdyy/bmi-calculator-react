@@ -16,13 +16,11 @@ The following screenshots demonstrate the application's logic across all four he
 
 | 🟡 Underweight Case | 🟢 Normal Weight Case |
 | :---: | :---: |
-| ![Underweight](./assets/underweight.jpeg) | ![Normal](./assets/normal.jpeg) |
-| *Example: 180cm / 55kg* | *Example: 180cm / 72kg* |
+| ![Underweight](src/assets/underweight.jpeg) | ![Normal](src/assets/normal.jpeg) |
 
 | 🟠 Overweight Case | 🔴 Obese Case |
 | :---: | :---: |
-| ![Overweight](./assets/overweight.jpeg) | ![Obese](./assets/obese.jpeg) |
-| *Example: 180cm / 90kg* | *Example: 180cm / 110kg* |
+| ![Overweight](src/assets/overweight.jpeg) | ![Obese](src/assets/obese.jpeg) |
 
 ---
 
